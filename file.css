@@ -1,0 +1,21 @@
+.reveal h3 {
+    padding-left: 15px;
+    text-align: left;
+    border-radius: 5px;
+    background-color: #e28413;
+    font-size: 45px; 
+    text-transform: none;
+}
+
+.reveal h1 {
+	font-size: 45px; 
+}
+
+.reveal h2 {
+        font-size: 30px;
+}
+
+.comite {
+    text-align: left;
+    font-size: 25px;
+}
