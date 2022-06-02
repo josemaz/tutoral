@@ -4,7 +4,7 @@ subtitle: José María Zamora Fuentes
 comite: "Comité Tutoral: Dr. Jesús Espinal Enríquez <br>
 Dra. Patricia García López <br>
 Dr. Luis Mendoza Sierra"
-date: Abril, 2022
+date: Junio, 2022
 institute: Universidad Nacional Autónoma de México
 css: file.css
 theme: white
@@ -20,11 +20,11 @@ slideNumber: h.v
 - Resumen
 
 ### Cáncer
-<img src="img/Cancer.png">
+<img src="./img/Cancer.png">
 
 
 ### Progresión del Cáncer
-<img src="img/Etapas.png" width="70%">
+<img src="./img/Etapas.png" width="70%">
 <p style="font-size: 12px; text-align: left;">
 <a target="_blank" href="">[1]</a> Stephen B. Edge, et al. "The American Joint Committee on Cancer: the 7th Edition of the AJCC Cancer Staging Manual and the Future of TNM". Annals of Surgical Oncology 17. 6(2010): 1471–1474.</p>
 
