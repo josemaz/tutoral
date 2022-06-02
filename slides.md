@@ -90,7 +90,7 @@ Encontrar **genes clave** que son afectados por **miRNAs** o por **metilación**
 |  72     |  272     |   59     | 123       | 82       |
 
 ### Flujo de tabajo de metilación
-<img src="img/pipeline-meth.png" width="90%">
+<img src="img/pipeline-meth.png" width="80%">
 
 
 
