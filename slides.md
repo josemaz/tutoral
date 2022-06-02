@@ -89,6 +89,21 @@ Encontrar **genes clave** que son afectados por **miRNAs** o por **metilación**
 |:-------:|:--------:|:--------:|:---------:|:--------:|
 |  72     |  272     |   59     | 123       | 82       |
 
+### Flujo de tabajo de metilación
+<img src="img/pipeline-meth.png" width="90%">
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Implicaciones
 - La identificación de factores genéticos y epigenéticos que son resultado de experimentos complejos, pueden proveer de nuevas hipótesis con este tipo de métodos computacionales (ingeniería reversa).
