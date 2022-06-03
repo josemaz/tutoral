@@ -37,6 +37,11 @@ slideNumber: h.v
 <p style="font-size: 12px; text-align: left;">
 <a target="_blank" href="">[1]</a>Modificado de Michalak EM, Burr ML, Bannister AJ, Dawson MA. The roles of DNA, RNA and histone methylation in ageing and cancer. Nat Rev Mol Cell Biol. 2019;20(10):573-589.</p>
 
+### Metilación
+<img src="img/beta.png" width="90%">
+<p style="font-size: 12px; text-align: left;">
+<a target="_blank" href="">[1]</a>Modificado de Michalak EM, Burr ML, Bannister AJ, Dawson MA. The roles of DNA, RNA and histone methylation in ageing and cancer. Nat Rev Mol Cell Biol. 2019;20(10):573-589.</p>
+
 ### Fuentes de datos
 - TCGA (The Cancer Genome Atlas)
 	- 11,300 pacientes 
