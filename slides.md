@@ -105,7 +105,7 @@ Encontrar **genes clave** que son afectados por **miRNAs** o por **metilación**
 ### Sitios CpGs diferencialmente metilados
 <img src="img/NTvsStage1.png" width="80%">
 
-### Flujo de la metilación diferencial
+### Algoritmo de metilación diferencial
 <img src="img/pipeline-meth.png" width="80%">
 
 ### Ejemplo: Gen Hipermetilado (ERMP1) 
