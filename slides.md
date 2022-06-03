@@ -89,8 +89,25 @@ Encontrar **genes clave** que son afectados por **miRNAs** o por **metilación**
 |:-------:|:--------:|:--------:|:---------:|:--------:|
 |  72     |  272     |   59     | 123       | 82       |
 
+
+
+### Metiloma
+<img src="img/meandesc.png" width="80%">
+
+### Agrupamiento del metiloma
+<img src="img/heatmap-1e5.png" width="80%">
+
+### Sitios CpGs diferencialmente metilados
+<img src="img/NTvsStage1.png" width="80%">
+
 ### Flujo de la metilación diferencial
 <img src="img/pipeline-meth.png" width="80%">
+
+### Ejemplo: Gen Hipermetilado (ERMP1) 
+<img src="img/under-ERMP1.png" width="60%">
+
+### Ejemplo: Gen Hipometilado (IL32)
+<img src="img/over-IL32.png" width="60%">
 
 ### Genes afectados por la metilación
 <img src="img/meth-venns.png" width="100%">
@@ -107,12 +124,15 @@ Encontrar **genes clave** que son afectados por **miRNAs** o por **metilación**
 |  hypo         | ITK           | Activación de células T |
 |  hyper        | RAB25         |   Supresor tumoral      |
 
+### Infiltración
+<img src="img/inmune.png" width="90%">
+
 
 
 ### Implicaciones
-- Exclusivas de la metilacion
-- La identificación de factores genéticos y epigenéticos que son resultado de experimentos complejos, pueden proveer de nuevas hipótesis con este tipo de métodos computacionales (ingeniería reversa).
-- Los resultados in-silico nos pueden proveer de evidencia para  biomarcadores con potencial aplicación clínica.
+- La metilacion puede apagar un supresor tumoral (RAB25) en las etapas del cancer
+- En las 4 etapas puede haber inflitracion de celulas del sistema inmune que cambiaron su patron de metilacion en ciertos genes importantes (ITK) en sus desarrollo.
+- Esta metodologia puede reproducir los 
 
 ### Trabajo futuro
 - Usar esta metodología para evaluar los siguientes tejidos de cáncer.
@@ -126,10 +146,13 @@ Encontrar **genes clave** que son afectados por **miRNAs** o por **metilación**
 
 ### Resultados académicos
 <p style="font-size: 24px; text-align: left;">
-**1--**  *Zamora-Fuentes JM*, Hernández-Lemus E, Espinal-Enríquez J. **miR-217 regulates different oncogenes during clear cell renal carcinoma progression** (*Enviado*). <br>
-**2--** *Zamora-Fuentes JM*, Hernández-Lemus E, Espinal-Enríquez J. **Gene Expression and Co-expression Networks Are Strongly Altered Through Stages in Clear Cell Renal Carcinoma.** Front Genet. 2020;11:578679. Published 2020 Nov 3. <br>
-**3--**  González-Espinoza A, *Zamora-Fuentes JM*, Hernández-Lemus E, Espinal-Enríquez J. **Gene Co-Expression in Breast Cancer: A Matter of Distance.** Front Oncol. 2021;11:726493. Published 2021 Nov 17. <br>
-**4--**  Andonegui-Elguera SD, *Zamora-Fuentes JM*, Espinal-Enríquez J, Hernández-Lemus E. **Loss of Long Distance Co-Expression in Lung Cancer.** Front Genet. 2021;12:625741. Published 2021 Mar 10. <br>
+**1--**  Curso de Biología Molecular (Dr. Felix Recillas)
+**2--**  Exámen de Candidatura
+**4--**  *Zamora-Fuentes JM*, Hernández-Lemus E, Espinal-Enríquez J. **methylation-driven gene networks in Clear Cell Renal Carcinoma** (*Enviado*). <br>
+**4--**  *Zamora-Fuentes JM*, Hernández-Lemus E, Espinal-Enríquez J. **miR-217 regulates different oncogenes during clear cell renal carcinoma progression** (*En revisión, Frontiers in Oncology*). <br>
+**5--** *Zamora-Fuentes JM*, Hernández-Lemus E, Espinal-Enríquez J. **Gene Expression and Co-expression Networks Are Strongly Altered Through Stages in Clear Cell Renal Carcinoma.** Front Genet. 2020;11:578679. Published 2020 Nov 3. <br>
+**6--**  González-Espinoza A, *Zamora-Fuentes JM*, Hernández-Lemus E, Espinal-Enríquez J. **Gene Co-Expression in Breast Cancer: A Matter of Distance.** Front Oncol. 2021;11:726493. Published 2021 Nov 17. <br>
+**7--**  Andonegui-Elguera SD, *Zamora-Fuentes JM*, Espinal-Enríquez J, Hernández-Lemus E. **Loss of Long Distance Co-Expression in Lung Cancer.** Front Genet. 2021;12:625741. Published 2021 Mar 10. <br>
 </p>
 
 
