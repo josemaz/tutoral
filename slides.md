@@ -129,20 +129,12 @@ Encontrar **genes clave** que son afectados por **miRNAs** o por **metilación**
 |  hypo         | ITK           | Activación de células T |
 |  hyper        | RAB25         |   Supresor tumoral      |
 
-### RAB25: Funciones en cáncer
-<img src="img/RAB25-func.png" width="70%">
-<p style="font-size: 12px; text-align: left;">
-<a target="_blank" href="">[1]</a>Wang S, et al. Rab25 GTPase: Functional roles in cancer. Oncotarget. 2017;8(38):64591-64599</p>
 
 
-### Infiltración
-<img src="img/inmune.png" width="90%">
 
-
-### Implicaciones
-- La metilacion puede apagar un supresor tumoral (RAB25) en las etapas del cancer
+### Discusión 
+- La metilacion apaga un supresor tumoral o un oncogen (RAB25) en las 4 etapas del cancer?
 - En las 4 etapas puede haber inflitracion de celulas del sistema inmune que cambiaron su patron de metilacion en ciertos genes importantes (ITK) en sus desarrollo.
-- Esta metodologia puede reproducir los 
 
 ### Trabajo futuro
 - Usar esta metodología para evaluar los siguientes tejidos de cáncer.
@@ -166,7 +158,7 @@ Encontrar **genes clave** que son afectados por **miRNAs** o por **metilación**
 </p>
 
 
-### Apendice
+### Apéndice
 
 ### Microambiente
 <img src="img/microambiente.png" width="80%">
@@ -188,5 +180,10 @@ Encontrar **genes clave** que son afectados por **miRNAs** o por **metilación**
 ### Aumento de Cáncer de riñon en hombres
 <img src="img/globocan-time-kidney-mex.png" width="50%">
 
+### RAB25: Funciones en cáncer
+<img src="img/RAB25-func.png" width="70%">
+<p style="font-size: 12px; text-align: left;">
+<a target="_blank" href="">[1]</a>Wang S, et al. Rab25 GTPase: Functional roles in cancer. Oncotarget. 2017;8(38):64591-64599</p>
 
-
+### Infiltración
+<img src="img/inmune.png" width="90%">
