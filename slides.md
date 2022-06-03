@@ -89,23 +89,28 @@ Encontrar **genes clave** que son afectados por **miRNAs** o por **metilación**
 |:-------:|:--------:|:--------:|:---------:|:--------:|
 |  72     |  272     |   59     | 123       | 82       |
 
-### Flujo de tabajo de metilación
+### Flujo de la metilación diferencial
 <img src="img/pipeline-meth.png" width="80%">
 
+### Genes afectados por la metilación
+<img src="img/meth-venns.png" width="100%">
 
+### Criterio funcional (Hipometilados)
+<img src="img/meth-overHipo.png" width="70%">
 
+### Criterio funcional (Hipermetilados)
+<img src="img/meth-underHyper.png" width="90%">
 
-
-
-
-
-
-
-
+### Enriquecimiento funcional de las 4 etapas
+| Metilación    | Gene núcleo   | Función Biológica  |
+|:------------- |:-------------:| -----:|
+|  hypo         | ITK           | Activación de células T |
+|  hyper        | RAB25         |   Supresor tumoral      |
 
 
 
 ### Implicaciones
+- Exclusivas de la metilacion
 - La identificación de factores genéticos y epigenéticos que son resultado de experimentos complejos, pueden proveer de nuevas hipótesis con este tipo de métodos computacionales (ingeniería reversa).
 - Los resultados in-silico nos pueden proveer de evidencia para  biomarcadores con potencial aplicación clínica.
 
@@ -121,8 +126,34 @@ Encontrar **genes clave** que son afectados por **miRNAs** o por **metilación**
 
 ### Resultados académicos
 <p style="font-size: 24px; text-align: left;">
-**1--**  *Zamora-Fuentes JM*, Hernández-Lemus E, Espinal-Enríquez J. **miR-217 regulates different oncogenes during clear cell renal carcinoma progression** (*Revisión*). <br>
+**1--**  *Zamora-Fuentes JM*, Hernández-Lemus E, Espinal-Enríquez J. **miR-217 regulates different oncogenes during clear cell renal carcinoma progression** (*Enviado*). <br>
 **2--** *Zamora-Fuentes JM*, Hernández-Lemus E, Espinal-Enríquez J. **Gene Expression and Co-expression Networks Are Strongly Altered Through Stages in Clear Cell Renal Carcinoma.** Front Genet. 2020;11:578679. Published 2020 Nov 3. <br>
 **3--**  González-Espinoza A, *Zamora-Fuentes JM*, Hernández-Lemus E, Espinal-Enríquez J. **Gene Co-Expression in Breast Cancer: A Matter of Distance.** Front Oncol. 2021;11:726493. Published 2021 Nov 17. <br>
 **4--**  Andonegui-Elguera SD, *Zamora-Fuentes JM*, Espinal-Enríquez J, Hernández-Lemus E. **Loss of Long Distance Co-Expression in Lung Cancer.** Front Genet. 2021;12:625741. Published 2021 Mar 10. <br>
 </p>
+
+
+### Apendice
+
+### Microambiente
+<img src="img/microambiente.png" width="80%">
+<p style="font-size: 14px; text-align: left;">
+<a target="_blank" href="">[1]</a>Yoshihara K, Inferring tumour purity and stromal and immune cell admixture from expression data. Nat Commun. 2013;4(1):2612.
+</p>
+
+### ccRC - CNVS (Amplificaciones)
+<img src="img/CNVS-expr-amps-kirc.png" width="80%">
+
+### Mutaciones en ccRC
+<img src="img/mutaciones.png" width="60%">
+
+### Cáncer en México
+<img src="img/globocan-cancer-kidney-mex.png" width="80%">
+<p style="font-size: 14px; text-align: left;">
+<a target="_blank" href="">Globocan  </a>https://gco.iarc.fr/today</p>
+
+### Aumento de Cáncer de riñon en hombres
+<img src="img/globocan-time-kidney-mex.png" width="50%">
+
+
+
