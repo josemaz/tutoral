@@ -37,7 +37,7 @@ slideNumber: h.v
 <p style="font-size: 12px; text-align: left;">
 <a target="_blank" href="">[1]</a>Modificado de Michalak EM, Burr ML, Bannister AJ, Dawson MA. The roles of DNA, RNA and histone methylation in ageing and cancer. Nat Rev Mol Cell Biol. 2019;20(10):573-589.</p>
 
-### Metilación
+### Valores Beta
 <img src="img/beta.png" width="90%">
 <p style="font-size: 12px; text-align: left;">
 <a target="_blank" href="">[1]</a>Modificado de Michalak EM, Burr ML, Bannister AJ, Dawson MA. The roles of DNA, RNA and histone methylation in ageing and cancer. Nat Rev Mol Cell Biol. 2019;20(10):573-589.</p>
@@ -134,7 +134,7 @@ Encontrar **genes clave** que son afectados por **miRNAs** o por **metilación**
 
 ### Discusión 
 - La metilacion apaga un supresor tumoral o un oncogen (RAB25) en las 4 etapas del cancer?
-- En las 4 etapas puede haber inflitracion de celulas del sistema inmune que cambiaron su patron de metilacion en ciertos genes importantes (ITK) en sus desarrollo.
+- En las 4 etapas, puede haber inflitración de células del sistema inmune que cambiaron su patrón de metilación en ciertos genes importantes (ITK) para su desarrollo?
 
 ### Trabajo futuro
 - Usar esta metodología para evaluar los siguientes tejidos de cáncer.
